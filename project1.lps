@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="6" Y="24"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <TopLine Value="86"/>
+        <CursorPos X="54" Y="101"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uploadfiles.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmUploadFile"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="UploadFiles"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="179"/>
+        <CursorPos X="41" Y="193"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="conexion.pas"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <UnitName Value="Conexion"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="5" Y="23"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="mainmenu.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMainMenu"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MainMenu"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="39"/>
+        <CursorPos X="25" Y="63"/>
+        <UsageCount Value="205"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="registrarcreditos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmCreditos"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="RegistrarCreditos"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="71"/>
+        <CursorPos Y="131"/>
+        <UsageCount Value="96"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="registroalm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmRegAlm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="RegistroAlm"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="117"/>
+        <CursorPos X="9" Y="149"/>
+        <UsageCount Value="80"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\UNSIS\lazarus\lcl\grids.pas"/>
+        <UnitName Value="Grids"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="7377"/>
+        <CursorPos Y="7394"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\UNSIS\lazarus\lcl\include\customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="369"/>
+        <CursorPos Y="386"/>
+        <UsageCount Value="7"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="registrarcreditos.pas"/>
+        <Caret Line="74" Column="25" TopLine="68"/>
+      </Position>
+      <Position>
+        <Filename Value="registrarcreditos.pas"/>
+        <Caret Line="73" Column="25" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="registrarcreditos.pas"/>
+        <Caret Line="74" Column="25" TopLine="68"/>
+      </Position>
+      <Position>
+        <Filename Value="registrarcreditos.pas"/>
+        <Caret Line="75" Column="25" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="registrarcreditos.pas"/>
+        <Caret Line="74" Column="25" TopLine="68"/>
+      </Position>
+      <Position>
+        <Filename Value="registrarcreditos.pas"/>
+        <Caret Line="73" Column="25" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="registroalm.pas"/>
+        <Caret Line="51" Column="110" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="registroalm.pas"/>
+        <Caret Line="52" Column="110" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="registroalm.pas"/>
+        <Caret Line="53" Column="110" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="registroalm.pas"/>
+        <Caret Line="111" Column="9" TopLine="83"/>
+      </Position>
+      <Position>
+        <Filename Value="registroalm.pas"/>
+        <Caret Line="150" Column="9" TopLine="110"/>
+      </Position>
+      <Position>
+        <Filename Value="registroalm.pas"/>
+        <Caret Line="149" Column="9" TopLine="117"/>
+      </Position>
+      <Position>
+        <Filename Value="registrarcreditos.pas"/>
+        <Caret Line="174" Column="22" TopLine="167"/>
+      </Position>
+      <Position>
+        <Filename Value="registrarcreditos.pas"/>
+        <Caret Line="38" Column="28" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="registrarcreditos.pas"/>
+        <Caret Line="209" Column="5" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="registrarcreditos.pas"/>
+        <Caret Line="41" Column="17" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="registrarcreditos.pas"/>
+        <Caret Line="62" Column="3" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="registrarcreditos.pas"/>
+        <Caret Line="186" Column="17" TopLine="163"/>
+      </Position>
+      <Position>
+        <Filename Value="registrarcreditos.pas"/>
+        <Caret Line="123" Column="30" TopLine="108"/>
+      </Position>
+      <Position>
+        <Filename Value="registrarcreditos.pas"/>
+        <Caret Line="121" Column="23" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="registrarcreditos.pas"/>
+        <Caret Line="198" Column="20" TopLine="184"/>
+      </Position>
+      <Position>
+        <Filename Value="registrarcreditos.pas"/>
+        <Caret Line="86" Column="62" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="9" Column="31"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="102" Column="28" TopLine="86"/>
+      </Position>
+      <Position>
+        <Filename Value="mainmenu.pas"/>
+        <Caret Line="38" Column="26" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="registrarcreditos.pas"/>
+        <Caret Line="39" Column="31" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="registrarcreditos.pas"/>
+        <Caret Line="195" Column="17" TopLine="172"/>
+      </Position>
+      <Position>
+        <Filename Value="mainmenu.pas"/>
+        <Caret Line="41" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="mainmenu.pas"/>
+        <Caret Line="42" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="mainmenu.pas"/>
+        <Caret Line="44" TopLine="34"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
